@@ -28,7 +28,7 @@ const categories = [
     {
         name: "technology",
         text: "기술"
-    },
+    }
 ];
 
 const CategoriesBlock = styled.div`
